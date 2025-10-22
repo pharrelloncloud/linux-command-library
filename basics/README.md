@@ -1,7 +1,7 @@
 ## Linux Command Library - Basics
 
-- [Navigation](/navigation.md)
-- [Files](/files.md)
-- [Permissions](/permissions.md)
-- [Processes](/processes.md)
-- [Networking](/networking.md)
+- [Navigation](basics/navigation.md)
+- [Files](basics/files.md)
+- [Permissions](basics/permissions.md)
+- [Processes](basics/processes.md)
+- [Networking](basics/networking.md)
