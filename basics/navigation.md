@@ -1,6 +1,6 @@
 # Purpose:
 
-Learn how to navigate through directories, list files, and understanding your position in the Linux File System/
+Learn how to navigate through directories, list files, and understanding your position in the Linux File System.
 
 # Key Commands
 
