@@ -24,6 +24,9 @@ pwd
 Output: /home/pharrelloncloud/Documents
 cd
 Output /home/pharrelloncloud (takes you back to home directory if no directory is selected).
+if /home/pharrelloncloud/Documents/Projects
+cd .. 
+Output: /home/pharrelloncloud/Documents
 
 ## tree
 This command allows you to view the directory structure as a tree
